@@ -158,12 +158,12 @@ section#skill{
 section#contact{
     animation: fadein 1s ease-in;
     background: url(./img/contact.jpg)no-repeat center center/cover;
-    background-image:linear-gradient(rgba(0, 0, 0, 0.25),rgba(0, 0, 0, 0.25)),url(./img/contact.JPG)
+    background-image:linear-gradient(rgba(0, 0, 0, 0.25),rgba(0, 0, 0, 0.25)),url(./img/contact.jpg)
 }
 section#dev{
     animation: fadein 1s ease-in;
     background: url(./img/dev.jpg)no-repeat center center/cover;
-    background-image:linear-gradient(rgba(0, 0, 0, 0.25),rgba(0, 0, 0, 0.25)),url(./img/dev.JPG)
+    background-image:linear-gradient(rgba(0, 0, 0, 0.25),rgba(0, 0, 0, 0.25)),url(./img/dev.jpg)
 }
 .dev ul li a{
     text-decoration: none;
